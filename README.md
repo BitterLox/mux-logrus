@@ -3,7 +3,7 @@ mux-logrus
 
 [![GoDoc](https://godoc.org/github.com/pytimer/mux-logrus?status.svg)](https://godoc.org/github.com/pytimer/mux-logrus)
 
-logrus middleware for groilla/mux
+logrus middleware for gorilla/mux
 
 ## Getting Started
 
